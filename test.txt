@@ -1,4 +1,1 @@
-f
-ccc
-cxc
-ccc
+\s
